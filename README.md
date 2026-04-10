@@ -23,7 +23,7 @@ The goal is to help stakeholders make **data-driven decisions** using an interac
 
 ## 📊 Dashboard Preview
 
-Dashboard Preview.png
+![Dashboard Preview](Images/dashboard.png)
 
 ---
 
@@ -31,7 +31,7 @@ Dashboard Preview.png
 
 This diagram shows the relationship between tables used in the analysis.
 
-ChatGPT Image Apr 10, 2026, 06_49_52 PM.png
+![ER Diagram](Images/erd.png)
 
 ---
 
